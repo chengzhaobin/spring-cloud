@@ -20,6 +20,7 @@
   	<module>config-server</module>
   	<module>config-client</module>
   	<module>api-gateway-dynamic-route</module>
+  	<module>spring-rabbitmq</module>
   </modules>
   <dependencies>
   	<dependency>
